@@ -1,5 +1,5 @@
 # Library Book Rental Application
-
+_The React frontend needs to be properly configured_
 ## Description
 - Spring Boot application for managing book rentals in a library.
 - Role-based access with 'librarian' and 'user' roles.
